@@ -1,4 +1,9 @@
 .h1 {
-    background-color: brown;
-    font-size: large;
+    background-color: rgb(154, 85, 85);
+    grid-row: auto;
+    padding: 10px;
+    border: 3px;
+    width: 50%;
+    font-size: xx-large;
+    
 }
